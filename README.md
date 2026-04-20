@@ -1,6 +1,6 @@
 # Student Grading System
 
-![CI](https://github.com/YOUR_USERNAME/student-grading-system/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/ValenciaLimm/student-grading-system/actions/workflows/ci.yml/badge.svg)
 ![Coverage](https://img.shields.io/badge/coverage-93%25-brightgreen.svg)
 
 REST API manajemen nilai mahasiswa - Final Project Software Testing.
